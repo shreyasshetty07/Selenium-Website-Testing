@@ -1,0 +1,12 @@
+Flask==3.0.3
+Flask_Cors==4.0.1
+Jinja2==3.1.4
+jproperties==2.1.1
+numpy
+pandas
+pymongo==4.7.3
+pytest==8.2.2
+reportlab==4.2.0
+selenium==4.21.0
+streamlit
+openpyxl

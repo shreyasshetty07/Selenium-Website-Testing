@@ -1,0 +1,7 @@
+Flask==3.0.3
+flask_cors==4.0.1
+jproperties==2.1.1
+pandas==2.2.2
+pymongo==4.7.3
+selenium==4.21.0
+streamlit==1.35.0

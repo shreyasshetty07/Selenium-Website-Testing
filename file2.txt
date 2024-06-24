@@ -1,0 +1,504 @@
+
+Test Case on Add to Cart
+30-10-2023, 16:15:29   Run 1:	Login Succesfully!!
+Test Case on Carosel Button
+30-10-2023, 16:15:43   Run 1:	Carosel Button is Working
+Test Case on Item Filters
+30-10-2023, 16:15:56   Run 1:	Occasions Filter Working
+Test Case on Add to Cart
+30-10-2023, 16:16:11   Run 1:	Add to Cart Failed :(
+Test Case on Items in Cart
+30-10-2023, 16:16:36   Run 1:	Cart items do not match :(
+Test Case on Add to Cart
+30-10-2023, 16:16:53   Run 1:	Login Succesfully!!
+Test Case on Logout Button
+30-10-2023, 16:17:09   Run 1:	LogOut Succesfull
+Test Case on Carosel Button
+31-10-2023, 10:08:51   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+06-11-2023, 14:12:28   Run 1:	Carosel Button is Working
+Test Case on Add to Cart
+06-11-2023, 14:14:04   Run 1:	Add to Cart Failed :(
+Test Case on Items in Cart
+07-11-2023, 10:29:24   Run 1:	Cart item count Verified!
+Test Case on login
+07-11-2023, 12:13:21   Run 1:	Success
+Test Case on Carosel Button
+07-11-2023, 15:55:39   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+07-11-2023, 16:39:25   Run 1:	Carosel Button is Working
+Test Case on Logout Button
+07-11-2023, 16:40:02   Run 1:	LogOut Succesfull
+Test Case on login
+07-11-2023, 17:15:01   Run 1:	Success
+Test Case on Add to Cart
+07-11-2023, 17:20:28   Run 1:	Add to Cart Failed :(
+Test Case on Items in Cart
+08-11-2023, 06:29:09   Run 1:	Cart item count Verified!
+Test Case on Items in Cart
+08-11-2023, 09:38:24   Run 1:	Cart item count Verified!
+Test Case on Items in Cart
+08-11-2023, 09:38:24   Run 1:	Cart item count Verified!
+Test Case on Add to Cart
+09-11-2023, 22:05:16   Run 1:	Add to Cart Failed :(
+Test Case on Logout Button
+09-11-2023, 22:05:19   Run 1:	LogOut Succesfull
+Test Case on Items in Cart
+09-11-2023, 22:05:33   Run 1:	Cart item count Verified!
+Test Case on Logout Button
+09-11-2023, 22:05:34   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+09-11-2023, 22:05:35   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+09-11-2023, 22:05:51   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+09-11-2023, 22:08:19   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+09-11-2023, 22:33:17   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+09-11-2023, 22:33:29   Run 1:	LogOut Succesfull
+Test Case on Items in Cart
+09-11-2023, 22:36:08   Run 1:	Cart item count Verified!
+Test Case on Items in Cart
+09-11-2023, 22:36:09   Run 1:	Cart item count Verified!
+Test Case on Logout Button
+09-11-2023, 22:38:34   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+10-11-2023, 19:31:44   Run 1:	LogOut Succesfull
+Test Case on Items in Cart
+10-11-2023, 19:35:12   Run 1:	Cart item count Verified!
+Test Case on Carosel Button
+10-11-2023, 19:43:54   Run 1:	Carosel Button is Working
+Test Case on Item Filters
+10-11-2023, 19:45:11   Run 1:	Occasions Filter Working
+Test Case on Add to Cart
+10-11-2023, 19:48:33   Run 1:	Add to Cart Failed :(
+Test Case on login
+10-11-2023, 19:53:44   Run 1:	Success
+Test Case on login
+10-11-2023, 22:07:48   Run 1:	Success
+Test Case on login
+11-11-2023, 05:37:55   Run 1:	Success
+Test Case on Carosel Button
+11-11-2023, 05:41:33   Run 1:	Carosel Button is Working
+Test Case on login
+11-11-2023, 05:42:54   Run 1:	Success
+Test Case on Carosel Button
+11-11-2023, 05:43:16   Run 1:	Carosel Button is Working
+Test Case on Add to Cart
+11-11-2023, 05:43:38   Run 1:	Add to Cart Failed :(
+Test Case on Items in Cart
+11-11-2023, 05:44:00   Run 1:	Cart item count Verified!
+Test Case on Item Filters
+11-11-2023, 05:44:20   Run 1:	Occasions Filter Working
+Test Case on Logout Button
+11-11-2023, 05:44:42   Run 1:	LogOut Succesfull
+
+Test Suite:
+Test Case on Logout Button
+11-11-2023, 08:33:55   Run 1:	LogOut Succesfull
+Test Case on Add to Cart
+11-11-2023, 08:34:16   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Items in Cart
+11-11-2023, 08:36:03   Run 1:	Cart item count Verified!
+Test Case on Items in Cart
+11-11-2023, 08:37:56   Run 1:	Cart item count Verified!
+Test Case on Items in Cart
+11-11-2023, 09:05:04   Run 1:	Cart item count Verified!
+Test Case on login
+11-11-2023, 09:08:39   Run 1:	Login Success
+Test Case on Item Filters
+11-11-2023, 09:09:59   Run 1:	Occasions Filter Working
+Test Case on Carosel Button
+11-11-2023, 09:11:52   Run 1:	Carosel Button is Working
+Test Case on Item Filters
+11-11-2023, 09:12:58   Run 1:	Occasions Filter Working
+
+Test Suite:
+11-11-2023, 09:48:43   Run 1:	Login Success
+Carosel Button is Working
+Add to Cart Unsuccesfull :(
+Cart item count Verified!
+Occasions Filter Working
+LogOut Succesfull  Number of Test case Passed5  Number of test case failed1
+
+Test Suite:
+11-11-2023, 09:52:43   Run 1:	Login Success
+Carosel Button is Working
+Add to Cart Unsuccesfull :(
+Cart item count Verified!
+Occasions Filter Working
+LogOut Succesfull  Number of Test case Passed5  Number of test case failed1
+
+Test Suite:
+11-11-2023, 09:56:38   Run 1:	Login Success
+Carosel Button is Working
+Add to Cart Unsuccesfull :(
+Cart item count Verified!
+Occasions Filter Working
+LogOut Succesfull  Number of Test case Passed5  Number of test case failed1
+
+Test Suite:
+11-11-2023, 09:59:50   Run 1:	Login Success
+Carosel Button is Working
+Add to Cart Unsuccesfull :(
+Cart item count Verified!
+Occasions Filter Working
+LogOut Succesfull  Number of Test case Passed5  Number of test case failed1
+Test Case on Logout Button
+11-11-2023, 11:01:55   Run 1:	LogOut Succesfull
+Test Case on Carosel Button
+11-11-2023, 11:05:52   Run 1:	Carosel Button is Working
+Test Case on login
+11-11-2023, 11:08:05   Run 1:	Login Success
+Test Case on Item Filters
+11-11-2023, 11:10:17   Run 1:	Occasions Filter Working
+Test Case on Logout Button
+11-11-2023, 11:11:58   Run 1:	LogOut Succesfull
+Test Case on login
+11-11-2023, 11:55:19   Run 1:	Login Unsuccesfull
+Test Case on Carosel Button
+11-11-2023, 11:55:54   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+11-11-2023, 11:57:49   Run 1:	Carosel Button is Working
+
+Test Suite:
+11-11-2023, 12:01:01   Run 1:	Login Unsuccesfull
+Carosel Button is Working
+Add to Cart Unsuccesfull :(
+Cart item count do not match :(
+Occasions Filter Working
+LogOut Succesfull  Number of Test case Passed3  Number of test case failed3
+Test Case on Carosel Button
+11-11-2023, 12:03:00   Run 1:	Carosel Button not Working :(
+Test Case on Items in Cart
+11-11-2023, 12:05:32   Run 1:	Cart item count do not match :(
+
+Test Suite:
+11-11-2023, 12:54:07   Run 1:	Login Success
+Carosel Button is Working
+Add to Cart Unsuccesfull :(
+Cart item count Verified!
+Occasions Filter Working
+LogOut Succesfull  Number of Test case Passed5  Number of test case failed1
+Test Case on Item Filters
+18-01-2024, 19:40:06   Run 1:	Occasions Filter Working
+Test Case on login
+18-01-2024, 19:46:29   Run 1:	Login Success
+Test Case on Logout Button
+18-01-2024, 19:49:09   Run 1:	LogOut Succesfull
+Test Case on Add to Cart
+18-01-2024, 23:02:04   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+18-01-2024, 23:03:42   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+18-01-2024, 23:08:20   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+18-01-2024, 23:19:51   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+18-01-2024, 23:22:35   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+18-01-2024, 23:24:57   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+18-01-2024, 23:27:04   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+18-01-2024, 23:29:50   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+18-01-2024, 23:37:50   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+19-01-2024, 16:46:18   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+19-01-2024, 16:49:54   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+19-01-2024, 16:52:40   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+21-01-2024, 09:25:49   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+21-01-2024, 09:34:28   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+21-01-2024, 09:38:58   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+21-01-2024, 10:32:24   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+21-01-2024, 11:13:34   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+21-01-2024, 11:17:03   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+21-01-2024, 11:18:09   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+21-01-2024, 11:37:15   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+21-01-2024, 11:44:41   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+21-01-2024, 13:07:36   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+21-01-2024, 13:09:00   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+21-01-2024, 13:12:09   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+21-01-2024, 13:15:11   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+22-01-2024, 14:22:34   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+22-01-2024, 14:30:27   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+22-01-2024, 14:43:25   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+22-01-2024, 14:46:31   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+22-01-2024, 14:54:40   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+22-01-2024, 15:15:01   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+22-01-2024, 16:06:42   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+29-01-2024, 19:15:49   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+29-01-2024, 19:24:57   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+29-01-2024, 19:34:07   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+29-01-2024, 19:35:43   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+07-02-2024, 16:43:17   Run 1:	Item added to cart Succesfully!!
+Test Case on login
+08-02-2024, 10:17:36   Run 1:	Login Success
+Test Case on login
+08-02-2024, 10:18:20   Run 1:	Login Success
+Test Case on Items in Cart
+08-02-2024, 10:20:46   Run 1:	Cart item count do not match :(
+Test Case on Logout Button
+08-02-2024, 10:21:30   Run 1:	LogOut Succesfull
+Test Case on Add to Cart
+08-02-2024, 10:29:32   Run 1:	Item added to cart Succesfully!!
+Test Case on Item Filters
+08-02-2024, 11:01:57   Run 1:	Occasions Filter Working
+Test Case on Carosel Button
+08-02-2024, 11:23:07   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+08-02-2024, 11:23:10   Run 1:	Carosel Button is Working
+Test Case on Item Filters
+08-02-2024, 11:32:27   Run 1:	Occasions Filter Working
+Test Case on login
+08-02-2024, 11:33:06   Run 1:	Login Success
+Test Case on login
+15-02-2024, 10:55:25   Run 1:	Login Success
+Test Case on login
+15-02-2024, 10:55:38   Run 1:	Login Success
+Test Case on Add to Cart
+15-02-2024, 10:57:12   Run 1:	Item added to cart Succesfully!!
+Test Case on login
+28-02-2024, 11:55:29   Run 1:	Login Success
+Test Case on Add to Cart
+28-02-2024, 12:01:06   Run 1:	Item added to cart Succesfully!!
+Test Case on login
+28-02-2024, 12:02:03   Run 1:	Login Unsuccesfull
+Test Case on login
+28-02-2024, 12:02:12   Run 1:	Login Success
+Test Case on Logout Button
+28-02-2024, 12:05:56   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+28-02-2024, 12:19:51   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+28-02-2024, 12:22:09   Run 1:	LogOut Succesfull
+Test Case on Item Filters
+28-02-2024, 12:24:56   Run 1:	Occasions Filter Working
+Test Case on Item Filters
+28-02-2024, 12:26:27   Run 1:	Occasions Filter Working
+Test Case on Items in Cart
+28-02-2024, 12:28:45   Run 1:	Cart item count do not match :(
+Test Case on Items in Cart
+28-02-2024, 12:29:38   Run 1:	Cart item count do not match :(
+Test Case on Items in Cart
+28-02-2024, 12:31:54   Run 1:	Cart item count do not match :(
+Test Case on Item Filters
+28-02-2024, 12:34:40   Run 1:	Occasions Filter Working
+Test Case on Item Filters
+28-02-2024, 12:42:20   Run 1:	Occasions Filter Working
+Test Case on Add to Cart
+04-03-2024, 18:13:14   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+04-03-2024, 18:16:30   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+04-03-2024, 18:29:56   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+<<<<<<< HEAD
+04-03-2024, 18:31:05   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+05-03-2024, 11:40:06   Run 1:	Item added to cart Succesfully!!
+
+
+Test Case on login
+05-03-2024, 17:52:25   Run 1:	Login Success
+Test Case on login
+05-03-2024, 17:53:24   Run 1:	Login Success
+Test Case on login
+05-03-2024, 18:31:39   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:31:55   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:32:15   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:33:05   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:35:13   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:36:15   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:37:16   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:39:55   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:41:48   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:44:20   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:46:56   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:49:37   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:54:03   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:55:27   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:57:34   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 18:59:12   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 19:04:27   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 19:13:52   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 19:18:12   Run 1:	Login Success
+Test Case on login
+05-03-2024, 19:18:27   Run 1:	Login Unsuccesfull
+Test Case on login
+05-03-2024, 21:06:21   Run 1:	Login Success
+Test Case on Carosel Button
+05-03-2024, 21:14:49   Run 1:	Carosel Button not Working :(
+Test Case on Carosel Button
+05-03-2024, 21:15:09   Run 1:	Carosel Button not Working :(
+Test Case on login
+23-03-2024, 09:32:30   Run 1:	Login Success
+Test Case on Add to Cart
+23-03-2024, 09:34:59   Run 1:	Item added to cart Succesfully!!
+Test Case on Carosel Button
+25-03-2024, 13:34:25   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 13:41:22   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 13:45:05   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 13:46:18   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 14:00:12   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 14:15:45   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 14:19:44   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 14:20:52   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 14:21:52   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 14:23:26   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+25-03-2024, 14:24:29   Run 1:	Carosel Button is Working
+Test Case on Item Filters
+26-03-2024, 08:02:50   Run 1:	Occasions Filter Working
+Test Case on Carosel Button
+26-03-2024, 08:03:09   Run 1:	Carosel Button is Working
+Test Case on Logout Button
+26-03-2024, 08:12:50   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+26-03-2024, 08:14:57   Run 1:	LogOut Succesfull
+Test Case on Add to Cart
+26-03-2024, 10:19:56   Run 1:	Item added to cart Succesfully!!
+Test Case on Items in Cart
+26-03-2024, 10:20:27   Run 1:	Cart item count do not match :(
+Test Case on Item Filters
+26-03-2024, 12:25:21   Run 1:	Occasions Filter Working
+Test Case on Carosel Button
+26-03-2024, 16:24:35   Run 1:	Carosel Button is Working
+Test Case on Item Filters
+26-03-2024, 16:25:44   Run 1:	Occasions Filter Working
+Test Case on login
+26-03-2024, 16:41:01   Run 1:	Login Success
+Test Case on login
+27-03-2024, 07:13:42   Run 1:	Login Unsuccesfull
+Test Case on login
+27-03-2024, 07:16:53   Run 1:	Login Unsuccesfull
+Test Case on login
+27-03-2024, 11:54:41   Run 1:	Login Unsuccesfull
+Test Case on Add to Cart
+27-03-2024, 12:15:35   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Add to Cart
+27-03-2024, 14:38:36   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+27-03-2024, 14:51:19   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on login
+27-03-2024, 15:13:02   Run 1:	Login Unsuccesfull
+Test Case on Item Filters
+11-04-2024, 13:56:52   Run 1:	Occasions Filter Working
+Test Case on Item Filters
+11-04-2024, 13:56:56   Run 1:	Occasions Filter Working
+Test Case on login
+11-04-2024, 14:04:26   Run 1:	Login Success
+Test Case on login
+24-05-2024, 13:04:03   Run 1:	Login Success
+Test Case on Add to Cart
+28-05-2024, 11:41:55   Run 1:	Item added to cart Succesfully!!
+Test Case on login
+28-05-2024, 11:43:53   Run 1:	Login Success
+Test Case on Add to Cart
+09-06-2024, 10:04:04   Run 1:	Item added to cart Succesfully!!
+Test Case on Item Filters
+14-06-2024, 13:12:49   Run 1:	Occasions Filter Working
+Test Case on Add to Cart
+14-06-2024, 14:52:48   Run 1:	Item added to cart Succesfully!!
+Test Case on Carosel Button
+20-06-2024, 13:24:06   Run 1:	Carosel Button is Working
+Test Case on Carosel Button
+20-06-2024, 13:25:03   Run 1:	Carosel Button is Working
+Test Case on Add to Cart
+20-06-2024, 13:42:25   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 13:51:00   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 14:58:48   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 15:06:34   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 15:08:36   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 15:55:32   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 16:02:23   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 16:44:01   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+20-06-2024, 16:50:09   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 10:36:52   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:06:47   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:12:16   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:17:40   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:21:31   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:32:01   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:37:52   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:54:00   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 11:58:49   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 12:02:21   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 12:22:43   Run 1:	Item added to cart Succesfully!!
+Test Case on Add to Cart
+24-06-2024, 12:26:52   Run 1:	Item added to cart Succesfully!!

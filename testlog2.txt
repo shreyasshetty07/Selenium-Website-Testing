@@ -1,0 +1,9 @@
+
+Test Case on Attendance
+05-03-2024, 08:18:39   Run 1:	Succesfully Marked all attendance  -- Test case Passed
+Test Case on Attendance
+05-03-2024, 14:15:40   Run 1:	Succesfully Marked all attendance  -- Test case Passed
+Test Case on Attendance
+05-03-2024, 14:16:32   Run 1:	\Given student ID is not present in the particular batch  --  Test Case failed
+Test Case on Attendance
+05-03-2024, 14:16:56   Run 1:	\Given student ID is not present in the particular batch  --  Test Case failed

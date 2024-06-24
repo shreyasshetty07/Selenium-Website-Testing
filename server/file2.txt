@@ -1,0 +1,71 @@
+
+Test Case on login
+07-11-2023, 08:20:18   Run 1:	Success
+Test Case on login
+07-11-2023, 09:01:49   Run 1:	Success
+Test Case on login
+07-11-2023, 09:08:37   Run 1:	Success
+Test Case on login
+07-11-2023, 09:09:29   Run 1:	Success
+Test Case on login
+07-11-2023, 09:10:20   Run 1:	Success
+Test Case on login
+07-11-2023, 09:11:47   Run 1:	Success
+Test Case on login
+07-11-2023, 09:15:29   Run 1:	Success
+Test Case on login
+07-11-2023, 09:16:34   Run 1:	Success
+Test Case on login
+07-11-2023, 09:17:58   Run 1:	Success
+Test Case on login
+07-11-2023, 09:20:07   Run 1:	Success
+Test Case on login
+07-11-2023, 09:21:26   Run 1:	Success
+Test Case on login
+07-11-2023, 09:21:59   Run 1:	Success
+Test Case on login
+07-11-2023, 09:50:40   Run 1:	Success
+Test Case on Logout Button
+07-11-2023, 10:00:22   Run 1:	LogOut Succesfull
+Test Case on Add to Cart
+07-11-2023, 10:05:20   Run 1:	Add to Cart Failed :(
+Test Case on Add to Cart
+07-11-2023, 10:07:14   Run 1:	Add to Cart Failed :(
+Test Case on Items in Cart
+07-11-2023, 10:11:36   Run 1:	Cart item count Verified!
+Test Case on Item Filters
+07-11-2023, 10:15:15   Run 1:	Occasions Filter Working
+Test Case on Carosel Button
+07-11-2023, 10:17:45   Run 1:	Carosel Button is Working
+Test Case on Logout Button
+09-11-2023, 22:01:18   Run 1:	LogOut Succesfull
+Test Case on Logout Button
+09-11-2023, 22:45:20   Run 1:	LogOut Succesfull
+Test Case on login
+10-11-2023, 19:28:35   Run 1:	Success
+Test Case on login
+10-11-2023, 19:33:42   Run 1:	Success
+Test Case on login
+10-11-2023, 19:52:59   Run 1:	Success
+Test Case on login
+11-11-2023, 06:27:50   Run 1:	Login Success
+Test Case on login
+11-11-2023, 06:29:49   Run 1:	Login Success
+Test Case on Logout Button
+11-11-2023, 06:31:09   Run 1:	LogOut Succesfull
+Test Case on Add to Cart
+11-11-2023, 06:32:38   Run 1:	Add to Cart Unsuccesfull :(
+Test Case on Items in Cart
+11-11-2023, 06:33:42   Run 1:	Cart item count Verified!
+Test Case on Item Filters
+11-11-2023, 06:34:59   Run 1:	Occasions Filter Working
+Test Case on Carosel Button
+11-11-2023, 06:36:04   Run 1:	Carosel Button is Working
+
+Test Suite:
+11-11-2023, 07:25:23   Run 1:	Login Success
+Carosel Button is Working
+Add to Cart Unsuccesfull :(
+Cart item count Verified!
+Occasions Filter Working
+LogOut Succesfull  Number of Test case Passed5  Number of test case failed1
